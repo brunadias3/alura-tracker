@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+```npm install -g @vue/cli```
+```vue create alura-tracker```
+```npm run serve```
+```npm i --save-dev @fortawesome/fontawesome-free```
