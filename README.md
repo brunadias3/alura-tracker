@@ -29,3 +29,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```vue create alura-tracker```
 ```npm run serve```
 ```npm i --save-dev @fortawesome/fontawesome-free```
+```npm install bulma```
